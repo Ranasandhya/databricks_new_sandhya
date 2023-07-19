@@ -1,2 +1,7 @@
 # Databricks notebook source
-import pip
+def add(x,y):
+    return x + y
+
+# COMMAND ----------
+
+
